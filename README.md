@@ -2,3 +2,4 @@
 1. My Network
 2. Info Extractor
 3. Remote Control
+4. Log Analyzer
