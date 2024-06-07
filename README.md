@@ -1,5 +1,6 @@
 # Cybersecurity Projects
-1. Network Mapping\n
+1. Network Mapping
+
 Mapped a home network and identified all connected devices using the router’s web interface.
 
 2. Info Extractor
