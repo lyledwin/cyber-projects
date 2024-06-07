@@ -1,7 +1,7 @@
 # Cybersecurity Projects
 1. Network Mapping
 
-Mapped a home network and identified all connected devices using the router’s web interface.
+  Mapped a home network and identified all connected devices using the router’s web interface.
 
 2. Info Extractor
 Developed a bash script to automatically extract system information from a user's machine, including the IP and MAC addresses, memory usage on the CPU and the largest files in the system. An unknown process that results in unusually high memory usage on the CPU could indicate that the machine has been compromised by attackers.
