@@ -10,3 +10,6 @@ Developed a bash script to automate the scanning of a domain anonymously using t
 
 4. Log Analyzer:
 Developed a python script that automatically parses auth.log files on Linux, extracting essential information from the log file that could indicate a potential security breach in the network. The information extracted include details on adding and deleting users, changes in user passwords and the use of sudo and su command.
+
+5. Network Security Assessment:
+Developed a bash script to automate the enumeration stage of pentesting on a network through the use of nmap, hydra and nmap NSE scripts. The open ports, service versions, weak passwords and potential vulnerabilities of the network can be found. This allows users to quickly identify areas of the network that are vulnerable to exploitation.
